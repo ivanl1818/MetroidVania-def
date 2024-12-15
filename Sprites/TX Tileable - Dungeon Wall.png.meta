@@ -1,0 +1,919 @@
+fileFormatVersion: 2
+guid: 5e974ad0da4184d4e96e4cee7f12ad95
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TX Tileable - Dungeon Wall_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 213.33333
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0b28c3761f21e4db10e1d3b1045612
+      internalID: -1669785979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileable - Dungeon Wall_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 213.33333
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04ada2ad7465b840ba546ad761df564
+      internalID: 1731796318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileable - Dungeon Wall_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 213.33333
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873e845dc41a7a84db59b1b0c8551b22
+      internalID: -1858676567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileable - Dungeon Wall_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 213.33333
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3811c80eda72d4642b65c74a5dc8ae82
+      internalID: 1892884261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileable - Dungeon Wall_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 213.33333
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e747eae6c95016c4d8c9241b3c080c7f
+      internalID: 67636848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileable - Dungeon Wall_5
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 213.33333
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9a9b331628f9a4b8fc98999eb19698
+      internalID: -1080828288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileable - Dungeon Wall_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171.33333
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155e0a97c1c07f84ca216625ec365d44
+      internalID: -49612189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileable - Dungeon Wall_7
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 171.33333
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a57ea0123836b1498630c9c35bc50f5
+      internalID: -2083622036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileable - Dungeon Wall_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 171.33333
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96022f31b45ff9a4d819f0171a1a3c27
+      internalID: 1249498414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileable - Dungeon Wall_9
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 171.33333
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274b3599ceb1dce478f3cd7aa9da5e47
+      internalID: 1715605839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileable - Dungeon Wall_10
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 171.33333
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d8a63295711354e9d9ef07c17b2965
+      internalID: 462504959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileable - Dungeon Wall_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 171.33333
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38b763d936a40e43a9f267183474fba
+      internalID: 1537740273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileable - Dungeon Wall_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129.33333
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88028f41a8d91b947a2e76a8b866c6e8
+      internalID: 1112338098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileable - Dungeon Wall_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 129.33333
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa37ecaffe77bec479e0bc9c8335746e
+      internalID: -650445641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileable - Dungeon Wall_14
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 129.33333
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be284952582fdcb4a8c93b5f87773c7a
+      internalID: -869352400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileable - Dungeon Wall_15
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 129.33333
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419b294cbd32bd44eb7ec5ace7ea60e3
+      internalID: -641175945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileable - Dungeon Wall_16
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 129.33333
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d59f3a52f1f0504e935365e7207ef41
+      internalID: -1633942750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileable - Dungeon Wall_17
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 129.33333
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccb507368c7d3f4197241959997055b
+      internalID: -454310135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileable - Dungeon Wall_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87.33333
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea12a3c43dd6fa449c9660be7cf0a4a
+      internalID: 885466098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileable - Dungeon Wall_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 87.33333
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c975c7372f0ecd74b8f23e9927e9790d
+      internalID: -560972965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileable - Dungeon Wall_20
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 87.33333
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15484a927b89c94a8c092026fe90982
+      internalID: -1852136905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileable - Dungeon Wall_21
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 87.33333
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b568f105dd35d4a8c72f890107022b
+      internalID: 444630173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileable - Dungeon Wall_22
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 87.33333
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73645346a7985c4fa5616795bb4c205
+      internalID: 459951254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileable - Dungeon Wall_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 87.33333
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3667f05c1d860b47930ccf5ff5c13a4
+      internalID: -292762908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileable - Dungeon Wall_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45.333332
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c8e7b2c00d0e64a818cc8c74e7c8ff
+      internalID: -2016458523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileable - Dungeon Wall_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 45.333332
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649c329c6e44c794ea3d8338ac0ec7d4
+      internalID: 793944420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileable - Dungeon Wall_26
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 45.333332
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527765cac4d7f4443aabbe7d1ddd931e
+      internalID: 383461811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileable - Dungeon Wall_27
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 45.333332
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775605af7da47d44f8947dd54a0aa9f3
+      internalID: 340505315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileable - Dungeon Wall_28
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 45.333332
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c199d207df6fdf447ab26f35ededd9fb
+      internalID: 431890668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileable - Dungeon Wall_29
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 45.333332
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6668e21d6bb3c134594a498a4dd461c3
+      internalID: -332643811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileable - Dungeon Wall_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.333332
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24877827e438a9448aceaaa603dde32c
+      internalID: -1259514996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileable - Dungeon Wall_31
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 3.333332
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fff3a440cc43b4fa2712ff97cc042f
+      internalID: -1365732336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileable - Dungeon Wall_32
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 3.333332
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f46de453ad6a33418067739881ee1b2
+      internalID: 1176678311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileable - Dungeon Wall_33
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 3.333332
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ba91b917c2c664f9a523b03c12acb4
+      internalID: 234848758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileable - Dungeon Wall_34
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 3.333332
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f0abefebf76da40ac3a907edfb2d64
+      internalID: 1665114087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileable - Dungeon Wall_35
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 3.333332
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b68f121dd36c274b8ad4fe2061d5dde
+      internalID: 1625545596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TX Tileable - Dungeon Wall_0: -1669785979
+      TX Tileable - Dungeon Wall_1: 1731796318
+      TX Tileable - Dungeon Wall_10: 462504959
+      TX Tileable - Dungeon Wall_11: 1537740273
+      TX Tileable - Dungeon Wall_12: 1112338098
+      TX Tileable - Dungeon Wall_13: -650445641
+      TX Tileable - Dungeon Wall_14: -869352400
+      TX Tileable - Dungeon Wall_15: -641175945
+      TX Tileable - Dungeon Wall_16: -1633942750
+      TX Tileable - Dungeon Wall_17: -454310135
+      TX Tileable - Dungeon Wall_18: 885466098
+      TX Tileable - Dungeon Wall_19: -560972965
+      TX Tileable - Dungeon Wall_2: -1858676567
+      TX Tileable - Dungeon Wall_20: -1852136905
+      TX Tileable - Dungeon Wall_21: 444630173
+      TX Tileable - Dungeon Wall_22: 459951254
+      TX Tileable - Dungeon Wall_23: -292762908
+      TX Tileable - Dungeon Wall_24: -2016458523
+      TX Tileable - Dungeon Wall_25: 793944420
+      TX Tileable - Dungeon Wall_26: 383461811
+      TX Tileable - Dungeon Wall_27: 340505315
+      TX Tileable - Dungeon Wall_28: 431890668
+      TX Tileable - Dungeon Wall_29: -332643811
+      TX Tileable - Dungeon Wall_3: 1892884261
+      TX Tileable - Dungeon Wall_30: -1259514996
+      TX Tileable - Dungeon Wall_31: -1365732336
+      TX Tileable - Dungeon Wall_32: 1176678311
+      TX Tileable - Dungeon Wall_33: 234848758
+      TX Tileable - Dungeon Wall_34: 1665114087
+      TX Tileable - Dungeon Wall_35: 1625545596
+      TX Tileable - Dungeon Wall_4: 67636848
+      TX Tileable - Dungeon Wall_5: -1080828288
+      TX Tileable - Dungeon Wall_6: -49612189
+      TX Tileable - Dungeon Wall_7: -2083622036
+      TX Tileable - Dungeon Wall_8: 1249498414
+      TX Tileable - Dungeon Wall_9: 1715605839
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
